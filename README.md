@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lucaurssi
-- 🌱 I’m currently learning Computer Science.
+- 🌱 I’m a Computer Science.
 - 📫 Send me an email at lucaurssi@gmail.com to contact me.
 
 <!---
